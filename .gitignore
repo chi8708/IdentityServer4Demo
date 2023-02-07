@@ -3,3 +3,9 @@
 ################################################################################
 
 /Api/obj
+/Api/bin/Debug/net5.0
+/.vs/IdentityServer4Demo
+/Quickstart/obj
+/Quickstart/bin/Debug/net5.0
+/Client/obj
+/Client/bin/Debug/net5.0

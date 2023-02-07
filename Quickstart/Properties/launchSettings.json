@@ -1,0 +1,16 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5001/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "启动": {
+      "commandName": "IISExpress",
+      "ErrorString": "Unexpected end of content while loading JObject. Path 'profiles', line 32, position 1."
+    }
+  }
+}
